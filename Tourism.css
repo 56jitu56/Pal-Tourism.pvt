@@ -1,0 +1,31 @@
+h1,h2,p,img {
+    text-align: left;
+    border: solid;
+    color: rgb(243, 239, 239);
+    background-color: rgba(255, 127, 127);
+    border-radius: 10px;
+    text-size-adjust:  ;
+ }
+  body{
+    background-image: url(nature.jpg);
+  }
+  div h4,h5{
+border: solid;
+background-color: antiquewhite;
+  }
+  h4 ,h5 {
+    border-radius:10px;
+    border-inline-color: rgb(241, 25, 25);
+  }
+  table{
+    border-radius: 10%;
+     background-color: bisque;
+     
+  }
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+ 
+  }
+  
